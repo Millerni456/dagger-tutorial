@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/kotlin,intellij
 # Edit at https://www.gitignore.io/?templates=kotlin,intellij
+.DS_Store
+.gradle/
+build/
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
