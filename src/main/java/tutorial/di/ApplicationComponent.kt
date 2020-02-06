@@ -3,7 +3,9 @@ package tutorial.di
 import dagger.Component
 import tutorial.feature1.Feature1ViewModel1
 import tutorial.feature1.Feature1ViewModel2
+import javax.inject.Singleton
 
+@Singleton
 @Component
 interface ApplicationComponent {
 
